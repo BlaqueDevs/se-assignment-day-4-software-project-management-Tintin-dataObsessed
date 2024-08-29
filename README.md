@@ -14,11 +14,20 @@ They an inital methods is the Process oriented approach which is very proactive 
 Maitaning high standards ensures that not only is your project of quality but is competitive in the market. It can also be compared internationally and improved based on the quality standard given.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
-## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-## 9. How can clearly defining the problem help in developing a more effective software solution?
-## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-## 11. What are the main features or functionalities that make your software stand out?
-## 12. What data is available regarding the market size and growth potential for your software?
-## 13. How can understanding market trends inform your software’s positioning and development?
+The project scope defines the limits and requirements of your project. This helsp with successful project planning because it ensures that each step and task made is within the limits of resources and needed for the overall development of the software. A Work breakdown structure is "a deliverable-oriented hierarchical decomposition of the work to be executed to accomplish the project objectives and create the required deliverables" This means it breakdowns the overall project into pieces, it helps define scope of the project and outline what the output at each step should be.
 
+## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+
+## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+## 9. How can clearly defining the problem help in developing a more effective software solution?
+
+## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+## 11. What are the main features or functionalities that make your software stand out?
+
+## 12. What data is available regarding the market size and growth potential for your software?
+
+## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding the market helps to orient your project and software development. This means you are able to develop software that can be used practically in the market. It will also be uptodate with the changes in the industry and keep it relevant in the market.
